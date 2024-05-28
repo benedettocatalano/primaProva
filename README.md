@@ -1,4 +1,2 @@
 # primaProva
-mi sono scocciato
-df
-af
+butto tutto
